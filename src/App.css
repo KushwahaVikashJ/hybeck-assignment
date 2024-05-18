@@ -1,0 +1,20 @@
+#root {
+  max-width: 375px;
+  margin: 0 auto;
+}
+
+path {
+  fill: #c8c8c8 !important;
+}
+
+path:hover {
+  fill: #0f8ba8 !important;
+}
+
+.selected {
+  fill: #0f8ba8 !important;
+}
+
+.bottomTab:hover{
+  filter: brightness(0) saturate(100%) invert(62%) sepia(72%) saturate(243%) hue-rotate(140deg) brightness(95%) contrast(90%);
+}
