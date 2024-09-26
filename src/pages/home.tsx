@@ -38,7 +38,7 @@ const HeroSection = () => {
     <div className="pt-[25px] pl-[13px] pb-4 bg-primary rounded-lg shadow mt-[20px] relative">
       <h1 className="font-bold text-2xl text-[#FFFFFF]">Our Network</h1>
       <p className="mt-2 text-sm max-w-[200px] text-[#FFFFFF] leading-[20px]">
-        Navigate within our network of healthcare provide
+        Navigate within our network of healthcare providers
       </p>
       <button className="mt-[14px] flex justify-center items-center gap-3 bg-[#FFFBFD] text-xs font-bold pt-2 pb-[9px] pl-4 pr-[9px] rounded-3xl">
         Search Network <img src={arrowIcon} className="w-4" />
